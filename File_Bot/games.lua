@@ -30,7 +30,7 @@ Text_Games = [[
  ✸∫ لعبه الحزوره ~⪼لعبة التفكير 
  ✸∫ لعبه المعاني ~⪼ العبه الشهيره 
 •━━━━━━━━━━━━━•ٴ
-彡 .[HoMeLaNd Channel](t.me/م)➢
+彡 .[HoMeLaNd Channel](t.me/YYYIYY1)➢
 ]]
 send(msg.chat_id_, msg.id_,Text_Games) 
 end
